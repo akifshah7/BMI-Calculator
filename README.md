@@ -1,2 +1,2 @@
-# Findest
-An app that will help you find a job
+# BMI Calculator
+An app that will help you track your BMI.
